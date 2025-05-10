@@ -1,9 +1,9 @@
-Olá me chamo <strong>Rodrigo Lira</strong>, estou em busca de recolocação para a vaga de <strong>Desenvolvedor Júnior</strong>.
+Olá me chamo <strong>Rodrigo Lira</strong>, atualmente sou desenvolvedor de software e estou sempre em busca de melhoria no meu conhecimento.
 
 Aqui você irá vê meus códigos e projetos. Espero que gostem. Boa navegação.
 <hr>
 <ol type= "circle"> </ol>
-<li>Desenvolvedor Júnior Front End | Back End</li>
+<li>Desenvolvedor Pleno Front End | Back End</li>
 <hr>
 Como entrar em contato comigo : <br>
 LinkedIn : www.linkedin.com/in/rodrigoolira <br>
