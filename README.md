@@ -3,7 +3,7 @@ Olá me chamo <strong>Rodrigo Lira</strong>, atualmente sou desenvolvedor de sof
 Aqui você irá vê meus códigos e projetos. Espero que gostem. Boa navegação.
 <hr>
 <ol type= "circle"> </ol>
-<li>Desenvolvedor Pleno Front End | Back End</li>
+<li>Desenvolvedor de Software Front End | Back End</li>
 <hr>
 Como entrar em contato comigo : <br>
 LinkedIn : www.linkedin.com/in/rodrigoolira <br>
